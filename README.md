@@ -202,6 +202,7 @@ streamlit run travel_agent.py
 *Plug-and-play skill files for any agent framework.*
 
 *   [♾️ Self-Improving Skills](awesome_ai_agent_skills/self-improving-agent-skills/) - Auto-optimization with ADK.
+*   [📦 YYLO Skills](https://github.com/yylo-dev/yylo-skills) - Reusable SKILL.md skill packs for AI coding agents.
 
 <details>
 <summary><strong>📋 View all 19 specialized skills</strong></summary>
